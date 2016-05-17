@@ -1,0 +1,43 @@
+* {
+    font-family: 'Franklin Gothic Medium', Helvetica, Arial, sans-serif;
+}
+h1 {
+    text-align: center;
+}
+body {
+    padding: 50px 50px 50px 50px;
+}
+
+h3 {
+    text-align: center;
+}
+
+h3 a:link {
+    color: slategray;
+}
+
+h3 a:visited {
+    color: slategray;
+}
+
+.candidate {
+    padding: 25px 0px 0px 25px;
+}
+
+.vid {
+    padding: 0px 0px 0px 35px;
+}
+
+.candidate h2 {
+    font-size: 30px;
+}
+
+.candidate p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 5%;
+    margin-right: 20%;
+    line-height: 130%;
+    
+}
